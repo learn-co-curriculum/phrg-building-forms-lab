@@ -20,3 +20,4 @@ The createStore method and some basic setup has already been implemented for you
 2. You will need to write the `Bands` component. This component should display a ul with a list element for each of the bands in the store's state. Each list element should have text with the corresponding name of the band.
 
 3. You will also need to fill in the `manageBand` reducer located under `./src/reducers/manageBand.js`. It will need to respond to an action of `type 'ADD_BAND'` and correspondingly concatenate a new band each time the action is dispatched.
+<p data-visibility='hidden'>PHRG Set List Lab</p>
